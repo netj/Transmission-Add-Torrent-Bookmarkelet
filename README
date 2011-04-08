@@ -37,7 +37,7 @@ These instructions already assume that you have setup Transmission for web acces
 
 https://github.com/bulljit/Transmission-Add-Torrent-Bookmarkelet/wiki
 
-To setup the bookmarklet:
+To setup the bookmarklet, run install.sh or follow these steps manually:
 
   - Copy the server-side files to your Transmission/Web/ directory
     - web/fetchtorrent.html
